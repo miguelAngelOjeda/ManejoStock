@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+D:\ProyectoSistema\Stock-Web\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3686174364.index
+99708317.index
+3750511423.index
+3490957819.index
+359225760.index

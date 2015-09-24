@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects>
+  <project name="service-web"/>
+ </used-by-projects>
+ <paths>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/container/arquillian-container-spi/1.1.0.Final/arquillian-container-spi-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/test/arquillian-test-api/1.1.0.Final/arquillian-test-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final/jboss-ejb-api_3.1_spec-1.0.2.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-spi/2.0.0-alpha-3/shrinkwrap-descriptors-spi-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-api/1.1.0.Final/arquillian-container-test-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/protocol/arquillian-protocol-servlet/1.1.0.Final/arquillian-protocol-servlet-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-container/1.1.0.Final/arquillian-junit-container-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-api/1.1.2/shrinkwrap-api-1.1.2.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/core/arquillian-core-impl-base/1.1.0.Final/arquillian-core-impl-base-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/config/arquillian-config-api/1.1.0.Final/arquillian-config-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-spi/1.1.0.Final/arquillian-container-test-spi-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/core/arquillian-core-api/1.1.0.Final/arquillian-core-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/junit/junit/4.11/junit-4.11.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/config/arquillian-config-impl-base/1.1.0.Final/arquillian-config-impl-base-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-impl-base/1.1.2/shrinkwrap-impl-base-1.1.2.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final/jboss-interceptors-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/junit/arquillian-junit-core/1.1.0.Final/arquillian-junit-core-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.1.0.Final/arquillian-container-test-impl-base-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/shrinkwrap/shrinkwrap-spi/1.1.2/shrinkwrap-spi-1.1.2.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/container/arquillian-container-impl-base/1.1.0.Final/arquillian-container-impl-base-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-api-base/2.0.0-alpha-3/shrinkwrap-descriptors-api-base-2.0.0-alpha-3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/core/arquillian-core-spi/1.1.0.Final/arquillian-core-spi-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/test/arquillian-test-spi/1.1.0.Final/arquillian-test-spi-1.1.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/arquillian/test/arquillian-test-impl-base/1.1.0.Final/arquillian-test-impl-base-1.1.0.Final.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource name="%3;" path="%2"/>
+   <linked-resource name="%5;%3;%6;" path="%4"/>
+   <linked-resource declaration="true" name="%8;" path="%7"/>
+  </core>
+  <el>
+   <linked-el length="21" name="%9" offset="3943" path="%10"/>
+   <linked-el length="26" name="%11" offset="5040" path="%10"/>
+   <linked-el length="26" name="%12" offset="5040" path="%10"/>
+   <linked-el length="21" name="%13" offset="3943" path="%10"/>
+   <linked-el length="21" name="%14" offset="4103" path="%10"/>
+   <linked-el length="21" name="%15" offset="4103" path="%10"/>
+   <linked-el length="21" name="%16" offset="4103" path="%10"/>
+   <linked-el length="26" name="%16" offset="5040" path="%10"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias
+   path="/service-ejb/src/main/java/tecno/srl/sistem/model/data/MemberListProducer.java" value="%7"/>
+  <alias path="project.artifactId" value="%13"/>
+  <alias path="/service-ejb/pom.xml" value="%10"/>
+  <alias path="version.ejb" value="%14"/>
+  <alias path="version" value="%16"/>
+  <alias
+   path="\service-ejb\src\main\java\tecno\srl\sistem\model\data\MemberRepository.java" value="%6"/>
+  <alias path="project" value="%9"/>
+  <alias path="version.surefire.plugin" value="%11"/>
+  <alias path="version.surefire" value="%12"/>
+  <alias
+   path="\service-ejb\src\main\java\tecno\srl\sistem\model\service\MemberRegistration.java" value="%5"/>
+  <alias
+   path="/service-ejb/src/main/java/tecno/srl/sistem/model/data/MemberRepository.java" value="%0"/>
+  <alias
+   path="/service-ejb/src/main/java/tecno/srl/sistem/model/service/MemberRegistration.java" value="%2"/>
+  <alias
+   path="\service-ejb\src\main\java\tecno\srl\sistem\model\data\MemberListProducer.java" value="%1"/>
+  <alias path="version.ejb.plugin" value="%15"/>
+  <alias
+   path="\service-ejb\src\test\java\tecno\srl\sistem\model\test\MemberRegistrationTest.java" value="%3"/>
+  <alias path="members" value="%8"/>
+  <alias
+   path="/service-ejb/src/main/java/tecno/srl/sistem/model/util/Resources.java" value="%4"/>
+  <alias path="%0" value="/service-ejb/src/main/java/tecno/srl/sistem/model/data/MemberRepository.java"/>
+  <alias path="%4" value="/service-ejb/src/main/java/tecno/srl/sistem/model/util/Resources.java"/>
+  <alias path="%3" value="\service-ejb\src\test\java\tecno\srl\sistem\model\test\MemberRegistrationTest.java"/>
+  <alias path="%2" value="/service-ejb/src/main/java/tecno/srl/sistem/model/service/MemberRegistration.java"/>
+  <alias path="%1" value="\service-ejb\src\main\java\tecno\srl\sistem\model\data\MemberListProducer.java"/>
+  <alias path="%7" value="/service-ejb/src/main/java/tecno/srl/sistem/model/data/MemberListProducer.java"/>
+  <alias path="%8" value="members"/>
+  <alias path="%16" value="version"/>
+  <alias path="%15" value="version.ejb.plugin"/>
+  <alias path="%5" value="\service-ejb\src\main\java\tecno\srl\sistem\model\service\MemberRegistration.java"/>
+  <alias path="%14" value="version.ejb"/>
+  <alias path="%6" value="\service-ejb\src\main\java\tecno\srl\sistem\model\data\MemberRepository.java"/>
+  <alias path="%9" value="project"/>
+  <alias path="%13" value="project.artifactId"/>
+  <alias path="%12" value="version.surefire"/>
+  <alias path="%11" value="version.surefire.plugin"/>
+  <alias path="%10" value="/service-ejb/pom.xml"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
