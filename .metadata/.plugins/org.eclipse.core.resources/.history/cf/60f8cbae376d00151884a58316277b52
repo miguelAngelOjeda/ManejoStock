@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package org.gestor.venta.ejb;
+
+/**
+ * @author Miguel
+ *
+ */
+public interface UsuarioManager {
+
+}

@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package srl.sistem.tecno.model.model;
+
+/**
+ * @author Miguel
+ *
+ */
+public class Permiso {
+
+}

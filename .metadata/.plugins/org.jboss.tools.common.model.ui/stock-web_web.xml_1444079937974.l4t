@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout resource="/stock-web/src/main/webapp/WEB-INF/web.xml">
+ <TreeFormPage>
+  <Memento type="FileWebApp30">
+   <Memento collapsed="false" type="Deployment Descriptor"/>
+   <Memento collapsed="false" type="Context Params"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="WebAppSessionConfig30">
+   <Memento collapsed="false" type="Session-Config"/>
+   <Memento collapsed="false" type="Cookie Configs"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="">
+   <Memento collapsed="false" type="Properties Editor"/>
+  </Memento>
+  <Memento type="WebAppFolderSecurityConstraints30">
+   <Memento collapsed="false" type="Security Constraints"/>
+  </Memento>
+  <Memento type="WebAppFolderFilters30">
+   <Memento collapsed="false" type="Filters"/>
+   <Memento collapsed="false" type="Filter Mappings"/>
+  </Memento>
+  <Memento type="WebAppFilter30">
+   <Memento collapsed="false" type="Filter"/>
+   <Memento collapsed="false" type="Init Params"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="WebAppFolderContextParams">
+   <Memento collapsed="false" type="Context Params"/>
+  </Memento>
+  <Memento type="WebAppCookieConfig">
+   <Memento collapsed="false" type="Cookie Config"/>
+   <Memento collapsed="false" type="Advanced"/>
+  </Memento>
+  <Memento type="WebAppWelcomFileList">
+   <Memento collapsed="false" type="Welcome Files"/>
+  </Memento>
+  <Memento type="WebAppJspConfig30">
+   <Memento collapsed="false" type="Taglibs"/>
+   <Memento collapsed="false" type="Property Groups"/>
+  </Memento>
+  <Memento type="WebAppLocaleEncodingMappingList">
+   <Memento collapsed="false" type="Locale Encoding Mappings"/>
+  </Memento>
+  <Memento type="WebAppFolderAbsoluteOrderings"/>
+  <Memento type="WebAppFolderDataSources30">
+   <Memento collapsed="false" type="Data Sources"/>
+  </Memento>
+  <Memento type="WebAppFolderListeners24">
+   <Memento collapsed="false" type="Listeners"/>
+  </Memento>
+  <Memento type="WebAppFolderServices30">
+   <Memento collapsed="false" type="Services"/>
+  </Memento>
+ </TreeFormPage>
+</Layout>

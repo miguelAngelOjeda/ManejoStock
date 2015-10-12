@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package srl.sistem.tecno.model.util;
+
+/**
+ * @author Miguel
+ *
+ */
+public class UserShiroDetails {
+
+}

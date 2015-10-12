@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.security.Timestamp"/>
+<fullyQualifiedTypeName name="tecno.srl.sistem.model.service.UsuarioService"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authz.AuthorizationInfo"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.AuthenticationInfo"/>
+<fullyQualifiedTypeName name="org.apache.shiro.subject.PrincipalCollection"/>
+<fullyQualifiedTypeName name="org.apache.shiro.util.ByteSource"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authz.SimpleAuthorizationInfo"/>
+<fullyQualifiedTypeName name="org.apache.shiro.realm.AuthorizingRealm"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="javax.ejb.Local"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="org.gestor.venta.ejb.PermisoManager"/>
+<fullyQualifiedTypeName name="org.gestor.venta.ejb.RolManager"/>
+<fullyQualifiedTypeName name="org.gestor.venta.ejb.UsuarioManager"/>
+<fullyQualifiedTypeName name="org.apache.shiro.subject.Subject"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.UnknownAccountException"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.LockedAccountException"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.IncorrectCredentialsException"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.UsernamePasswordToken"/>
+<fullyQualifiedTypeName name="org.apache.shiro.SecurityUtils"/>
+<fullyQualifiedTypeName name="org.apache.shiro.authc.AuthenticationException"/>
+<fullyQualifiedTypeName name="javax.xml.registry.infomodel.User"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.support.RedirectAttributes"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.apache.shiro.spring.web.ShiroFilterFactoryBean"/>
+<fullyQualifiedTypeName name="org.apache.shiro.web.mgt.DefaultWebSecurityManager"/>
+<fullyQualifiedTypeName name="org.apache.shiro.web.session.mgt.DefaultWebSessionManager"/>
+<fullyQualifiedTypeName name="org.apache.shiro.session.mgt.eis.SessionDAO"/>
+</qualifiedTypeNameHistroy>

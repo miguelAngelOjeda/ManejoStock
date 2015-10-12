@@ -1,0 +1,510 @@
+!SESSION 2015-10-05 16:57:45.994 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-05 17:19:02.727
+!MESSAGE Module stock-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-05 17:19:02.838
+!MESSAGE Module stock-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-05 17:19:02.853
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-05 17:19:02.950
+!MESSAGE Module stock-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-05 17:19:06.110
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-05 17:19:34.670
+!MESSAGE Server Startup Succeeded
+!SESSION 2015-10-06 09:18:55.112 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:01:59.315
+!MESSAGE 4 files modified in module stock-ear
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:01:59.755
+!MESSAGE 21 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:01:59.812
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2015-10-06 13:02:00.004
+!MESSAGE Incremental publish failed for module stock-ejb
+!SUBENTRY 1 org.eclipse.wst.server.core 4 1644298251 2015-10-06 13:02:00.004
+!MESSAGE Could not delete /srl/sistem/tecno/model/model. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-06 13:02:04.296
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-06 13:02:33.281
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:08:59.442
+!MESSAGE Module stock-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:09:00.379
+!MESSAGE Module stock-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:09:00.431
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:09:00.778
+!MESSAGE Module stock-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:13:13.800
+!MESSAGE 1 files modified in module stock-ear
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:13:13.846
+!MESSAGE 3 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:16:02.132
+!MESSAGE 4 files modified in module stock-ear
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:16:02.219
+!MESSAGE 6 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:16:02.314
+!MESSAGE 16 files modified in module stock-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:16:52.585
+!MESSAGE 3 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:16:52.809
+!MESSAGE 13 files modified in module stock-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:17:05.875
+!MESSAGE Module stock-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:17:06.326
+!MESSAGE Module stock-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:17:06.402
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:17:06.617
+!MESSAGE Module stock-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:18:13.248
+!MESSAGE Module stock-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:18:13.633
+!MESSAGE Module stock-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:18:13.685
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 13:18:13.881
+!MESSAGE Module stock-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:22:44.561
+!MESSAGE 4 files modified in module stock-ear
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:22:44.707
+!MESSAGE 6 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:22:44.829
+!MESSAGE 3 files modified in module stock-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:34:34.302
+!MESSAGE 4 files modified in module stock-ear
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:34:34.439
+!MESSAGE 6 files modified in module stock-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 17:34:34.759
+!MESSAGE 16 files modified in module stock-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2015-10-06 18:18:48.272
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-06 18:18:53.821
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:21:44.143
+!MESSAGE Module gestorventa-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:21:44.268
+!MESSAGE Module gestorventa-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:21:44.435
+!MESSAGE Module gestorventa-ejb published without error.
+
+!ENTRY unknown 0 0 2015-10-06 18:21:44.451
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-06 18:21:44.530
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-06 18:21:44.548
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-06 18:21:44.568
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-06 18:21:46.409
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-06 18:22:10.156
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:30:25.258
+!MESSAGE 1 files modified in module gestorventa-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:30:25.451
+!MESSAGE 14 files modified in module gestorventa-ejb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:30:29.281
+!MESSAGE 3 files modified in module gestorventa-web
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:30:57.253
+!MESSAGE 16 files modified in module gestorventa-ear
+
+!ENTRY unknown 0 0 2015-10-06 18:30:57.327
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-06 18:31:06.745
+!MESSAGE 16 files modified in module gestorventa-ear
+
+!ENTRY unknown 0 0 2015-10-06 18:31:06.804
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2015-10-06 19:06:34.526
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2015-10-07 12:51:17.722
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:28:25.192
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:28:25.325
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:28:25.338
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:30:15.018
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:30:15.055
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:30:15.063
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:40:22.756
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:40:22.790
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 16:40:22.966
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:11:15.298
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:11:15.382
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:11:15.394
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:11:15.479
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:52:57.641
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:52:57.741
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:52:57.754
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 18:52:57.922
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:01:58.796
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:01:58.869
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:01:58.880
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:01:59.005
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:02:03.702
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:02:03.758
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:02:03.770
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:02:03.951
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-10-07 19:02:15.712
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-10-07 19:02:59.425
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:03:41.483
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:03:41.682
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:03:41.704
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:03:41.769
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:05:15.489
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:05:15.545
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:05:15.557
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:05:15.646
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:06:34.092
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:06:34.155
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:06:34.167
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-07 19:06:34.228
+!MESSAGE Module ventaservice-ejb published without error.
+!SESSION 2015-10-09 15:47:28.642 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:30:40.681
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:30:40.816
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:30:40.841
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:30:40.929
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:35:42.683
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:35:42.770
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:35:42.787
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:35:42.836
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:43:42.586
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:43:42.730
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:43:42.742
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:43:42.803
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:45:48.814
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:45:48.912
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:45:48.932
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:45:49.321
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:49:52.413
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:49:52.550
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:49:52.570
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:49:52.634
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:50:11.873
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:50:11.962
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:50:11.974
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:50:12.029
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:55:23.568
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:55:23.667
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:55:23.681
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 18:55:23.756
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:39.092
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:39.189
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:39.204
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:39.276
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:55.895
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:55.984
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:56.000
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:03:56.048
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:07:18.416
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:07:18.508
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:07:18.522
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-09 19:07:18.570
+!MESSAGE Module ventaservice-ejb published without error.
+!SESSION 2015-10-12 09:36:25.747 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 11:17:50.550
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 11:17:50.667
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 11:17:50.695
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 11:17:50.832
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:17:39.394
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:17:39.487
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:17:39.504
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:17:39.568
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:22:21.804
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:22:21.894
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:22:21.907
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 12:22:21.984
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:06.053
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:06.152
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:06.166
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:06.264
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:50.601
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:50.690
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:50.703
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:46:50.761
+!MESSAGE Module ventaservice-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:47:19.665
+!MESSAGE Module ventaservice-ear published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:47:19.802
+!MESSAGE Module ventaservice-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:47:19.820
+!MESSAGE Module spring-web-3.2.2.RELEASE.jar published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2015-10-12 14:47:19.888
+!MESSAGE Module ventaservice-ejb published without error.

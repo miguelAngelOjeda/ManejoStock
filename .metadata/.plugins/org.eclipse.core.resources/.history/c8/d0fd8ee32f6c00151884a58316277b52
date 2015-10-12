@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package srl.sistem.tecno.model.util;
+
+import org.springframework.stereotype.Service;
+
+/**
+ * @author Miguel
+ *
+ */
+@Service("StockShiroService")
+public class StockShiroService {
+
+}

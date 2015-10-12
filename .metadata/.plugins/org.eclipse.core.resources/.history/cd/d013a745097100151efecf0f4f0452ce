@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+		http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-3.0.xsd
+		http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd">
+	
+	<context:component-scan base-package="org.gestor.venta" />
+	
+	<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver" />
+
+	<mvc:annotation-driven />
+	
+    <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">    
+        <property name="realm" ref="ventaservice"/>    
+        <property name="cacheManager" ref="cacheManager"/>    
+    </bean>  
+        
+<!--     <bean id="shiroFilter" class="org.apache.shiro.spring.web.ShiroFilterFactoryBean">    -->
+<!--         <property name="securityManager" ref="securityManager"/>    -->
+<!--         <property name="loginUrl" value="/login"/>      -->
+<!--         <property name="successUrl" value="/user"/>      -->
+<!--         <property name="unauthorizedUrl" value="/403"/>     -->
+<!--         <property name="filterChainDefinitions">     -->
+<!--             <value>      -->
+<!--                 /static/**=anon    -->
+<!--                 /user=perms[user:query]    -->
+<!--                 /user/add=roles[manager]   -->
+<!--                 /user/del/**=roles[admin]   -->
+<!--                 /user/edit/**=roles[manager]    -->
+<!--                 /** = authc   -->
+<!--             </value>     -->
+<!--         </property>     -->
+<!--     </bean>   -->
+    
+    <bean id="cacheManager" class="org.apache.shiro.cache.MemoryConstrainedCacheManager" />   
+     
+    <bean id="lifecycleBeanPostProcessor" class="org.apache.shiro.spring.LifecycleBeanPostProcessor" />   
+	
+
+</beans>

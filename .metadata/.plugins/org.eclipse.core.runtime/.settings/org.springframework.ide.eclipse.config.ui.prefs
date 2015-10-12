@@ -1,0 +1,8 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/gestorventa-web/src/main/webapp/WEB-INF/web.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/stock-web/src/main/webapp/WEB-INF/spring/app-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/stock-web/src/main/webapp/WEB-INF/spring/spring-mvc-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/stock-web/src/main/webapp/WEB-INF/web.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ventaservice-web/src/main/webapp/WEB-INF/spring/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ventaservice-web/src/main/webapp/WEB-INF/spring/spring-config-shiro.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/ventaservice-web/src/main/webapp/WEB-INF/spring/spring-mvc-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

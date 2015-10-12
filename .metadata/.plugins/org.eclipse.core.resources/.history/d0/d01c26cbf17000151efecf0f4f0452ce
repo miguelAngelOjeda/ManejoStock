@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package org.gestor.venta.services;
+
+/**
+ * @author Miguel
+ *
+ */
+public class UserDetails {
+
+}

@@ -18,15 +18,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>service</artifactId>
-        <groupId>tecno.srl.sistem.model</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <artifactId>Service</artifactId>
+        <groupId>org.service.tools.model</groupId>
+        <version>0.0.1</version>
     </parent>
 
-    <artifactId>service-ear</artifactId>
+    <artifactId>Service-ear</artifactId>
     <packaging>ear</packaging>
 
-    <name>service - ear</name>
+    <name>Service - ear</name>
 
     <url>http://jboss.org/jbossas</url>
     <licenses>
@@ -41,13 +41,13 @@
 
         <!-- Depend on the ejb module and war so that we can package them -->
         <dependency>
-            <groupId>tecno.srl.sistem.model</groupId>
-            <artifactId>service-web</artifactId>
+            <groupId>org.service.tools.model</groupId>
+            <artifactId>Service-web</artifactId>
             <type>war</type>
         </dependency>
         <dependency>
-            <groupId>tecno.srl.sistem.model</groupId>
-            <artifactId>service-ejb</artifactId>
+            <groupId>org.service.tools.model</groupId>
+            <artifactId>Service-ejb</artifactId>
             <type>ejb</type>
         </dependency>
     </dependencies>

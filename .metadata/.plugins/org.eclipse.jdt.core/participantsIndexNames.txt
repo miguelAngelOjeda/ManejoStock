@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+D:\ProyectoSistema\Stock-Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4044143996.index
+\ventaservice-web\src\main\java
+D:\ProyectoSistema\Stock-Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2505299463.index
+\srl\src\main\resources
+D:\ProyectoSistema\Stock-Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1348247465.index
+\ventaservice-web\src\main\java
+D:\ProyectoSistema\Stock-Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2134149707.index
+\ventaservice-web\src\main\java

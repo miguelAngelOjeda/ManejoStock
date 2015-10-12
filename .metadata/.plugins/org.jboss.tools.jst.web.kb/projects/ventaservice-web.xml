@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="ventaservice-ejb"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Miguel/.m2/repository/org/apache/shiro/shiro-web/1.2.3/shiro-web-1.2.3.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-shiro-web-1.2.3.jar/meta-inf/shiro.tld" project="stock-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/hibernate-entitymanager/4.2.0.Final/hibernate-entitymanager-4.2.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-webmvc/3.2.2.RELEASE/spring-webmvc-3.2.2.RELEASE.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-spring-webmvc-3.2.2.RELEASE.jar/meta-inf/spring-form.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-spring-webmvc-3.2.2.RELEASE.jar/meta-inf/spring.tld" project="ventaservice-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Miguel/.m2/repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/enterprise/cdi-api/1.0-SP4/cdi-api-1.0-SP4.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.3/jackson-mapper-asl-1.9.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/apache/shiro/shiro-spring/1.2.3/shiro-spring-1.2.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.1_spec/2.0.9.Final/jboss-jsf-api_2.1_spec-2.0.9.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/com/googlecode/genericdao/dao/1.2.0/dao-1.2.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.3/jackson-core-asl-1.9.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-beans/3.2.2.RELEASE/spring-beans-3.2.2.RELEASE.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/javaee-api/6.0/javaee-api-6.0.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/c-1_0-rt.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/c-1_0.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/c.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/fmt-1_0-rt.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/fmt-1_0.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/fmt.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/fn.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/html_basic.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/jsf_core.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/mojarra_ext.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/permittedtaglibs.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/scriptfree.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/sql-1_0-rt.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/sql-1_0.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/sql.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/x-1_0-rt.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/x-1_0.tld" project="ventaservice-web"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-javaee-api-6.0.jar/meta-inf/x.tld" project="ventaservice-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_1.1_spec/1.0.1.Final/jboss-jaxrs-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/com/googlecode/genericdao/search/1.2.0/search-1.2.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/apache/shiro/shiro-ehcache/1.2.3/shiro-ehcache-1.2.3.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/com/googlecode/genericdao/dao-hibernate/1.2.0/dao-hibernate-1.2.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/asm/asm/3.3.1/asm-3.3.1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/jboss/spec/javax/interceptor/jboss-interceptors-api_1.1_spec/1.0.1.Final/jboss-interceptors-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/com/googlecode/genericdao/search-hibernate/1.2.0/search-hibernate-1.2.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-web/3.2.2.RELEASE/spring-web-3.2.2.RELEASE.jar"/>
+  <path value="/ventaservice-web/src/main/webapp/WEB-INF/faces-config.xml">
+   <libraries>
+    <library class="faces-config">
+     <id class="model-object"
+      path="FileSystems/WEB-INF/faces-config.xml" project="ventaservice-web"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Miguel/.m2/repository/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/hibernate-core/4.2.0.Final/hibernate-core-4.2.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-aop/3.2.2.RELEASE/spring-aop-3.2.2.RELEASE.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/net/sf/ehcache/ehcache-core/2.5.0/ehcache-core-2.5.0.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-core/3.2.2.RELEASE/spring-core-3.2.2.RELEASE.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/springframework/spring-expression/3.2.2.RELEASE/spring-expression-3.2.2.RELEASE.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/cglib/cglib/2.2.2/cglib-2.2.2.jar"/>
+  <path value="C:/Users/Miguel/.m2/repository/org/apache/shiro/shiro-core/1.2.3/shiro-core-1.2.3.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="10" name="%0" offset="333" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="message" value="%0"/>
+  <alias
+   path="/ventaservice-web/src/main/webapp/WEB-INF/resources/jsp/login.jsp" value="%1"/>
+  <alias path="%0" value="message"/>
+  <alias path="%1" value="/ventaservice-web/src/main/webapp/WEB-INF/resources/jsp/login.jsp"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://www.springframework.org/tags/form">
+   <prefix>form</prefix>
+  </uri>
+ </uris>
+</kb-project>

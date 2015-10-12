@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package org.gestor.venta.controller;
+
+/**
+ * @author Miguel
+ *
+ */
+public class LoginController {
+
+}

@@ -1,0 +1,38 @@
+/**
+ * 
+ */
+package ShiroUserService;
+
+/**
+ * @author Miguel
+ *
+ */
+public class ShiroUserService {
+	
+	@Override 
+	public void authenticate(String username,String password) throws InvalidAccountException, InvalidCredentialsException, UserLockedException {
+		  log.debug("Perform authentication for user {}",username);
+		  UsernamePasswordToken token=new UsernamePasswordToken(username,password);
+		  Subject subject=SecurityUtils.getSubject();
+		  try {
+		    subject.login(token);
+		  }
+		 catch (  UnknownAccountException e) {
+		    log.debug("UnknownAccountException");
+		    throw new InvalidAccountException();
+		  }
+		catch (  IncorrectCredentialsException e) {
+		    log.debug("IncorrectCredentialsException");
+		    throw new InvalidCredentialsException();
+		  }
+		catch (  LockedAccountException e) {
+		    log.debug("LockedAccountException");
+		    throw new UserLockedException();
+		  }
+		catch (  AuthenticationException e) {
+		    log.error("AuthenticationException: {}",e.getMessage());
+		    throw new InvalidCredentialsException();
+		  }
+		}
+
+}

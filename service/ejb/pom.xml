@@ -18,15 +18,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>service</artifactId>
-        <groupId>tecno.srl.sistem.model</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <artifactId>Service</artifactId>
+        <groupId>org.service.tools.model</groupId>
+        <version>0.0.1</version>
     </parent>
 
-    <artifactId>service-ejb</artifactId>
+    <artifactId>Service-ejb</artifactId>
     <packaging>ejb</packaging>
 
-    <name>service - ejb</name>
+    <name>Service - ejb</name>
 
     <url>http://jboss.org/jbossas</url>
     <licenses>
